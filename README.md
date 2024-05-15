@@ -4,11 +4,7 @@
 ## Getting Started:
 * Clone or download the repository.
 
-<<<<<<< HEAD
-## Usage
-=======
 ## Usage:
->>>>>>> a3ea04b8f8b0628e3d81ea6c8d8011f12dca3746
 * To use the is_leap() function, simply provide a year as an argument and the function will return True if it is a leap year, and False otherwise.
 
 ## Contact:
